@@ -404,6 +404,11 @@
 
 
 @media screen and (max-width: 550px){
+    
+    .mailSmallDiv{
+        width: 400px;
+        padding: 20px;
+    }
     .church img{
         width: 400px;
     }
