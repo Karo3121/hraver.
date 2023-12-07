@@ -420,6 +420,12 @@
             width: 400px;
             height: 350px;
     }
+    .time li{
+        margin: 6px;
+        color: white;
+        text-align: center;
+        list-style: none;
+    }
 
 
 
